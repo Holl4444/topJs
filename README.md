@@ -1,2 +1,3 @@
 # topJs
-Working through The Odin Project javaScript
+
+Working through The Odin Project javaScript intermediate course.
